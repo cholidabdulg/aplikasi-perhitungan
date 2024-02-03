@@ -182,11 +182,12 @@ class ProfileDeveloperPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
-            Text('Nama: '),
-            Text('NPM: '),
-            Text('Kelas: '),
-            Text('Kontak: '),
-            Text('Alamat: '),
+            Text('Nama: Cholid Abdul Ghoni '),
+            Text('NPM: 2210020169 '),
+            Text('Kelas: SI Nonreg BJM '),
+            Text('Kontak: 087819156020 '),
+            Text('Alamat: jl.tatah bangkal
+           '),
           ],
         ),
       ),
